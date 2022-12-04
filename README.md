@@ -7,10 +7,10 @@ The BOM is located in the bom.txt file of the release.
 
 Battery:
 
-Yellow: https://github.com/andrewsawesome/LightUpHannukiah/releases/tag/Release
-White:
+Yellow: https://github.com/andrewsawesome/LightUpHannukiah/releases/tag/V1.2Y
+White: https://github.com/andrewsawesome/LightUpHannukiah/releases/tag/V1.2W
 
 USB: 
 
-Yellow:
-White:
+Yellow: https://github.com/andrewsawesome/LightUpHannukiah/releases/tag/V1.2YUSB
+White: https://github.com/andrewsawesome/LightUpHannukiah/releases/tag/V1.2WUSB
